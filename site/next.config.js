@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'CLEVERONCOMMAND: KASM REGISTRY',
+    description: 'CLEVERONCOMMAND: for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://github.com/exee21/kasm-registry/',
+    contactUrl: 'https://cleveroncommand.com/support',
   },
   reactStrictMode: true,
   swcMinify: true,
